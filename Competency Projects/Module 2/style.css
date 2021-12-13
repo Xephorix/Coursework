@@ -1,0 +1,130 @@
+/* BLAZE TECHNOLOGIES `style.css` | BUILD VERSION 1.0.0 */
+
+/* Global Styles */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI";
+    background-image: linear-gradient(#eee, #b1b1b1);
+}
+
+header {
+    height: 60px;
+    padding-top: 0.4em;
+    padding-left: 3em;
+    font-family: "Arial";
+    background-color: #0068b5;
+    color: #cbddeb;
+}
+
+nav {
+    font-family: "Trebuchet MS";
+    font-size: 245%;
+    font-weight: bold;
+    float: left;
+    width: 160px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    font-size: 0.5em;
+    list-style: none;
+}
+
+nav a:link {
+    color: #333;
+}
+
+nav a:visited {
+    color: #333;
+}
+
+nav a:hover {
+    color: rgb(31, 31, 31);
+}
+
+main {
+    background-color: #fff;
+    margin-left: 190px;
+    padding: 1px 20px 20px 30px;
+    display: block;
+    overflow: auto;
+}
+
+h1 {
+    font-family: "Segoe UI";
+    font-size: 2em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-family: "Arial";
+    color: #1976d2;
+}
+
+h3 {
+    font-family: "Arial";
+    color: #419af2;
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+#svg1 {
+    justify-self: center;
+}
+
+#contact {
+    font-size: 70%;
+    font-style: italic;
+}
+
+.container-width {
+    position: relative;
+    z-index: 99;
+    max-width: 1100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.features-container {
+    display: grid;
+    margin-top: 15px;
+}
+.features-item__title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 17px;
+    line-height: 22px;
+    font-weight: 600;
+}
+.features-item__description {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.features-item align-center {
+    width: 100%;
+    max-width: 250px;
+    margin-bottom: 55px;
+}
+.footerlink {
+    color: #244866;
+    text-decoration: none;
+}
+
+.footerlink:visited {
+    color: #244866;
+    text-decoration: none;
+}
