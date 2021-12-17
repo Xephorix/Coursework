@@ -1,0 +1,122 @@
+/* PACIFIC TRAILS `style.css` | BUILD VERSION 2.1 */
+
+/* Fixes:
+    Added background-repeat rules for body, and *hero sections 
+    Added blur radius to all instances of text shadow
+*/
+
+/* Global Styles */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #90c7e3;
+    background-image: linear-gradient(to bottom, #ffffff, #90c7e3);
+    background-repeat: no-repeat;
+    color: #666;
+}
+
+header {
+    /* Background Image */
+    background-image: url(images/sunset.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    /********************/
+
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+
+    background-color: #002171;
+    color: #fff;
+}
+
+nav {
+    padding: 1em;
+    text-align: center;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+main {
+    padding: 1px 20px 20px;
+    display: block;
+}
+
+h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    text-shadow: 1px 1px 1px #ccc;
+    color: #1976d2;
+}
+
+h3 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #000033;
+}
+
+ul {
+    list-style-image: url(images/marker.gif);
+}
+
+footer {
+    padding: 2em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+}
+
+dt {
+    color: #002171;
+}
+
+.resort {
+    font-weight: bold;
+    color: #1976d2;
+}
+
+#homehero {
+    height: 300px;
+    background-image: url(images/coast.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#yurthero {
+    height: 300px;
+    background-image: url(images/yurt.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#trailhero {
+    height: 300px;
+    background-image: url(images/trail.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#contact {
+    font-size: 90%;
+}
+
+#wrapper {
+    /* Center Content */
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    /******************/
+
+    min-width: 960px;
+    max-width: 2048px;
+    box-shadow: 3px 3px 3px #333;
+}
