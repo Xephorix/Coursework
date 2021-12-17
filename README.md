@@ -1,4 +1,6 @@
-Ethan Cook - Cybersecurity Course (2021-Unspecified)
+# Ethan Cook - Cybersecurity Course (2021-Unspecified)
+
+This is a collection of the work (Or at least most of it) I have completed during my time in the Cybersecurity course. I have a few breif descriptions of each course and what I learned in them below, if you're interested.
 
 ## ITECH 3010 Fundamentals
 This course lasted from 8 September 2021 to 26 September 2021
