@@ -1,0 +1,40 @@
+USER REPORT
+
+STATUS:   URGENT
+FIX BY:   10:00:00
+CUR TIME: 9:00:00
+
+- PROBLEMS
+
+ ~ No indicator lights functioning on the monitor.
+  - There should be a green light on the bottom right corner of the monitor.
+ ~ No indicator lights functioning on the computer itself.
+  - It should have a blue "ON" light.
+
+- POSSIBLE CAUSES
+ 
+ ~ No power to the machine or the monitor
+  - Faulty outlet or power strip
+  - Power cables are not connected properly or are broken
+  - Circuit breaker
+  - Voltage is too low or too high
+
+- TEST CASE SOLUTIONS
+
+ ~ Check the voltage using a voltmeter
+
+- CAUSE LOCATED: CIRCUIT BREAKER POWER DISENGAGEMENT
+ 
+REPORT CLOSED AND CONFIRMED FIXED. TIME IS 9:12:05
+
+-----------
+
+REPORT REOPENED: ISSUE RE-ENCOUNTERED.
+
+- POSSIBLE CAUSES
+
+ ~ Check circuit breaker for possible disengagement
+
+- CAUSE OF DISENGAGEMENT IDENTIFIED: SPACE HEATER PLUGGED INTO SAME CIRCUIT
+
+REPORT CLOSED AND CONFIRMED FIXED. TIME IS 9:40:27

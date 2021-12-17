@@ -1,0 +1,35 @@
+M3 Ch12: Disaster Recovery Sites - Notes
+
+COLD SITE
+ - No hardware
+  ~ Empty building
+
+ - No data
+  ~ Bring it with you
+
+ - No people
+  ~ Bus in your team
+
+WARM SITE
+ - Somewhere between hot and cold
+  ~ Just enough to get going
+
+ - Big room with rack space 
+  ~ You bring the hardware
+
+ - Hardware is ready and waiting
+  ~ You bring the software and data
+
+HOT SITE
+ - An exact replica
+  ~ Duplicate everything
+
+ - Stocked with hardware
+  ~ constantly updated
+  ~ you buy two of everything
+
+ - Applications and software are constantly updated
+  ~ Automated replication
+
+ - Flip a switch and everything moves
+  ~ This may be quite a few switches

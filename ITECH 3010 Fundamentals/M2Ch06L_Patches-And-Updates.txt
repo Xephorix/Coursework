@@ -1,0 +1,19 @@
+VULNERABILITY REPORT - DESIGNATE "ADV200003"
+
+FIXES
+
+- memory corruption vulnerabilities that could lead to code execution 
+- heap overflow vulnerability that could lead to code execution
+- time-of-check time-of-use (TOCTOU) race condition that could be exploited to bypass Protected Mode in Internet Explorer 
+- validation bypass issues that could be exploited to write arbitrary data to the file system under user permissions
+- integer overflow vulnerability that could lead to code execution
+- type confusion vulnerability that could lead to code execution
+- use-after-free vulnerability that could lead to code execution
+- memory leak vulnerabilities that could be used to bypass ASLR
+- security bypass vulnerability that could lead to information disclosure
+
+Note: I did uninstall the patch, but the example window shown in the lesson was never presented, so I do not have a screenshot. I hope
+you can just take my word for it, but I am willing to redo this lesson if not.
+
+Thanks
+- Ethan

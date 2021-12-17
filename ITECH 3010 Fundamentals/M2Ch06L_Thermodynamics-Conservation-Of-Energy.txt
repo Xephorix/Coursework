@@ -1,0 +1,38 @@
+Voltage Reading: 119.6 Volts
+
+Hertz Reading: 60 Hertz
+[ Power Factor: 0.86 - 0.87
+
+Amp Reading: 0.73 Amps
+
+Wattage
+[ AC: 87.380   Watts
+[ DC: 75.08488 Watts
+
+CPU Temperature (IR Reader)
+[ 88.7 F
+[ 31.6 C
+
+Oil Marble Temperature (IR Reader)
+[ 86.0 F
+[ 30.1 C
+
+Oil Line Temperature (IR Reader)
+[ 88.1 F
+[ 31.3 C
+
+Oil Hoses Temperature (IR Reader
+
+Hose 1 (Outtake | Left)
+[ 80.0 F
+[ 26.7 C
+
+Hose 2 (Intake | Right)
+[ 86.9 F
+[ 30.6 C
+
+Difference In Temperature
+[ 6.9 F
+[ 3.9 C
+
+
