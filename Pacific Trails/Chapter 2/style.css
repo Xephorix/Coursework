@@ -1,8 +1,0 @@
-/* This file is literally only used to prevent hyperlinks from turning purple after being visited. It was bothering me, sorry. */
-
-a { color: #0000FF } /* Globally */
-
-a:visited {
-    text-decoration: none;
-    color: #0000FF;
-}
