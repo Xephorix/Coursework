@@ -1,0 +1,17 @@
+ASCENDING ORDER
+
+2, 23, 37, 45, 54, 67, 76, 99, 104, 400
+1/10, 1/4, 1/3, 2/5, 1/2, 5/7, 3/4, 6/7, 5/4, 1-1/2
+0.34, 0.5, 0.78, 0.8, 1.45, 2.3, 4.4, 6.7, 7.5, 8.4
+b, c, j, k, l, p, q, r, w, x
+birch, cottonwood, elm, hickory, maple, oak, palm, pine, spruce, sycamore
+almond, brazil, cashew, chestnut, hazelnut, macadamia, pecan, pine, pistachio, walnut
+
+DESCENDING ORDER
+
+400, 104, 99, 76, 67, 54, 45, 37, 23, 2
+1-1/2, 5/4, 6/7, 3/4, 5/7, 1/2, 2/5, 1/3, 1/4, 1/10
+8.4, 7.5, 6.7, 4.4, 2.3, 1.45, 0.8, 0.78, 0.5, 0.34
+x, w, r, q, p, l, k, j, c, b
+sycamore, spruce, pine, palm, oak, maple, hickory, elm, cottonwood, birch
+walnut, pistachio, pine, pecan, macadamia, hazelnut, chestnut, cashew, brazil, almond
